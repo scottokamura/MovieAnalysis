@@ -39,4 +39,4 @@
 
 ### Additional Contents
   1. Slide deck presentation ('presentation.pdf')
-  2. Personal blog on process 
+  2. Personal blog on process (https://scottokamura.github.io/analyzing_box_office_performance_of_movies)
