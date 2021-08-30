@@ -1,3 +1,5 @@
+![Movie Analysis](https://user-images.githubusercontent.com/65571381/131406993-d381439e-2244-4ac1-a593-864cfe7d13c6.png)
+
 # Movie Analysis
 
 [Movie Analysis.pdf](https://github.com/scottokamura/MovieAnalysis/files/7079656/Movie.Analysis.pdf)
