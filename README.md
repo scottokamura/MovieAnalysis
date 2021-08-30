@@ -2,8 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/MovieAnalysis)
 ![last commit date](https://img.shields.io/github/last-commit/scottokamura/MovieAnalysis)
-
-![release date]()
+![release date](https://img.shields.io/github/release-date/scottokamura/MovieAnalysis)
 
 This repo contains an analysis of movie data from 2010 to identify the key features that determine whether a movie will be a box office _success_ or a _flop_. __Aspiring movie producers__ and __casting directors__ can benefit from this repo during the development stages of making a film.
 
