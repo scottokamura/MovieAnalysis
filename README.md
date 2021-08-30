@@ -1,5 +1,8 @@
 # Movie Analysis
 
+[Movie Analysis.pdf](https://github.com/scottokamura/MovieAnalysis/files/7079656/Movie.Analysis.pdf)
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/MovieAnalysis)
 ![last commit date](https://img.shields.io/github/last-commit/scottokamura/MovieAnalysis)
 ![forks](https://img.shields.io/github/forks/scottokamura/MovieAnalysis?style=social)
