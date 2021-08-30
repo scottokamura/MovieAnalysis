@@ -17,9 +17,9 @@ Before you continue, ensure you have met the following requirements:
   3. Open 'Microsoft Movie Analysis.ipynb' and run all cells
       
 ## Methods
- - Pandas Dataframe
- - Matplotlib and Seaborn Visualizations
- - Data Cleaning
+ - Pandas
+ - Matplotlib, Seaborn
+ - SQLite3, pandasql
 
 <!-- ### Summary of Approach
 1. Identify different benchmarks of success in movies
@@ -36,5 +36,5 @@ Before you continue, ensure you have met the following requirements:
 
 
 ### Additional Contents
-  1. Slide deck presentation ('presentation.pdf')
-  2. Personal blog on process (https://scottokamura.github.io/analyzing_box_office_performance_of_movies)
+  1. [Movie Analysis Presentation](https://github.com/scottokamura/MovieAnalysis/blob/master/presentation.pdf)
+  2. [Blog: Analyzing Box Office Performances of Movies ](https://scottokamura.github.io/analyzing_box_office_performance_of_movies)
