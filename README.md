@@ -1,6 +1,6 @@
 # Movie Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/MovieAnalysis)
 
 
 This repo contains an analysis of movie data from 2010 to identify the key features that determine whether a movie will be a box office _success_ or a _flop_. __Aspiring movie producers__ and __casting directors__ can benefit from this repo during the development stages of making a film.
@@ -40,6 +40,9 @@ Before you continue, ensure you have met the following requirements:
       - Common genre or genre combinations
       - Common directors or writers
       - Ideal production budget to minimize loss and maximize ROI -->
+
+# Contact
+If you want to contact me, you can reach me at scott.okamura@gmail.com.
 
 
 ### Additional Contents
