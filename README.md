@@ -1,5 +1,8 @@
 # Movie Analysis
 
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+
+
 This repo contains an analysis of movie data from 2010 to identify the key features that determine whether a movie will be a box office _success_ or a _flop_. __Aspiring movie producers__ and __casting directors__ can benefit from this repo during the development stages of making a film.
 
 ## Prerequisites
@@ -10,6 +13,10 @@ Before you continue, ensure you have met the following requirements:
 1. Visit [python.org](https://www.python.org/downloads/)
 2. Choose your operating system
 3. Follow the download link and setup wizard instructions
+
+```
+!pip install 
+```
 
 ## How to Use Repository
   1. Fork and clone this repo
