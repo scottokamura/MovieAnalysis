@@ -2,7 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/MovieAnalysis)
 ![last commit date](https://img.shields.io/github/last-commit/scottokamura/MovieAnalysis)
-![release date](https://img.shields.io/github/release-date/scottokamura/MovieAnalysis)
+![forks](https://img.shields.io/github/forks/scottokamura/MovieAnalysis?style=social)
+![stars](https://img.shields.io/github/stars/scottokamura/MovieAnalysis?style=social)
 
 This repo contains an analysis of movie data from 2010 to identify the key features that determine whether a movie will be a box office _success_ or a _flop_. __Aspiring movie producers__ and __casting directors__ can benefit from this repo during the development stages of making a film.
 
@@ -11,13 +12,10 @@ Before you continue, ensure you have met the following requirements:
 * Python 3.0+
 
 ### Installing Python 3.0+
-1. Visit [python.org](https://www.python.org/downloads/)
-2. Choose your operating system
-3. Follow the download link and setup wizard instructions
+  1. Visit [python.org](https://www.python.org/downloads/)
+  2. Choose your operating system
+  3. Follow the download link and setup wizard instructions
 
-```
-!pip install 
-```
 
 ## How to Use Repository
   1. Fork and clone this repo
@@ -42,7 +40,7 @@ Before you continue, ensure you have met the following requirements:
       - Common directors or writers
       - Ideal production budget to minimize loss and maximize ROI -->
 
-# Contact
+## Contact
 If you want to contact me, you can reach me at scott.okamura@gmail.com.
 
 
