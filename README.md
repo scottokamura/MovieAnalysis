@@ -1,7 +1,6 @@
 # Movie Analysis
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottokamura/MovieAnalysis)
-
 ![last commit date](https://img.shields.io/github/last-commit/scottokamura/MovieAnalysis)
 
 ![release date]()
