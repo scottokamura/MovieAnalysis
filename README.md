@@ -1,4 +1,4 @@
-# Microsoft Movie Analysis
+# Movie Analysis
 
 This repo contains an analysis of movie data from 2010 to identify the key features that determine whether a movie will be a box office success or a flop. Aspiring movie producers and casting directors can benefit from this repo during the development stages of making a film.
 
@@ -7,7 +7,7 @@ Before you continue, ensure you have met the following requirements:
 * Python 3.0+
 
 ### Installing Python 3.0+
-1. Visit [python](https://www.python.org/downloads/)
+1. Visit [python.org](https://www.python.org/downloads/)
 2. Choose your operating system
 3. Follow the download link and setup wizard instructions
 
@@ -21,27 +21,18 @@ Before you continue, ensure you have met the following requirements:
  - Matplotlib and Seaborn Visualizations
  - Data Cleaning
 
-### Summary of Approach
+<!-- ### Summary of Approach
 1. Identify different benchmarks of success in movies
-  - Gross sales
-  - Net profit
-  - Return on investment
+      - Gross sales
+      - Net profit
+      - Return on investment
 2. Compare the top grossing movies to see patterns
 3. Repeat with top profitable movies and movies with high ROI
 4. Investigate if entering the movie business is a smart business move in the current economic climate
 5. Expand on key benchmark of success (ROI) in top movies
-  - Common genre or genre combinations
-  - Common directors or writers
-  - Ideal production budget to minimize loss and maximize ROI
-
-## Technologies
- - Python
- - Pandas
- - Matplotlib
- - Sqlite3
- - Pandasql
- - Matplotlib
- - Seaborn
+      - Common genre or genre combinations
+      - Common directors or writers
+      - Ideal production budget to minimize loss and maximize ROI -->
 
 
 ### Additional Contents
